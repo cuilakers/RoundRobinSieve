@@ -1,3 +1,7 @@
+> Code of the experiments for **Submodular Maximization under 𝑘-System Constraints in Parallel: A Trifecta of Approximation, Adaptivity, and Query Complexity** that was published at KDD 2026.
+
+For more information, contact: Shuang Cui (scui@suda.edu.cn)
+
 ## Application: Maximum Coverage on Networks
 
 * **Compilation**
